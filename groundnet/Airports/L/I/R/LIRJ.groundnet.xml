@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Ramp_1" lat="N42 45.804880" lon="E10 14.257494" heading="-111.22"  radius="18" airlineCodes="WLC" />
+        <Parking index="1" type="gate" name="Ramp_2" lat="N42 45.780805" lon="E10 14.268025" heading="-106.95"  radius="18" airlineCodes="TYR" />
+        <Parking index="2" type="gate" name="Ramp_3" lat="N42 45.757891" lon="E10 14.279130" heading="-109.96"  radius="18" airlineCodes="WLC" />
+        <Parking index="3" type="gate" name="Ramp_4" lat="N42 45.737829" lon="E10 14.288272" heading="-109.02"  radius="18" airlineCodes="AFR" />
+        <Parking index="4" type="gate" name="Ramp_5" lat="N42 45.811939" lon="E10 14.271635" heading="-107.94"  radius="10" airlineCodes="" />
+        <Parking index="5" type="gate" name="Ramp_6" lat="N42 45.722283" lon="E10 14.293163" heading="-19.11"  radius="10" airlineCodes="" />
+        <Parking index="6" type="gate" name="North_21" lat="N42 45.995645" lon="E10 14.304726" heading="73.52"  radius="10" airlineCodes="" />
+        <Parking index="7" type="ga" name="North_22" lat="N42 46.005700" lon="E10 14.309961" heading="73.52"  radius="10" airlineCodes="" />
+        <Parking index="8" type="ga" name="North_27" lat="N42 46.025509" lon="E10 14.274538" heading="251.14"  radius="10" airlineCodes="" />
+        <Parking index="9" type="gate" name="North_28" lat="N42 46.022061" lon="E10 14.284414" heading="251.14"  radius="10" airlineCodes="" />
+        <Parking index="10" type="ga" name="North_29" lat="N42 46.013340" lon="E10 14.279820" heading="251.14"  radius="10" airlineCodes="" />
+        <Parking index="11" type="gate" name="North_30" lat="N42 46.009776" lon="E10 14.289466" heading="251.14"  radius="10" airlineCodes="" />
+        <Parking index="12" type="ga" name="South_1" lat="N42 45.671648" lon="E10 14.308004" heading="241.84"  radius="10" airlineCodes="" />
+        <Parking index="13" type="ga" name="South_2" lat="N42 45.663707" lon="E10 14.312891" heading="241.84"  radius="10" airlineCodes="" />
+        <Parking index="14" type="ga" name="South_3" lat="N42 45.655363" lon="E10 14.318288" heading="241.84"  radius="10" airlineCodes="" />
+        <Parking index="15" type="ga" name="South_4" lat="N42 45.647296" lon="E10 14.323414" heading="241.84"  radius="10" airlineCodes="" />
+        <Parking index="16" type="ga" name="South_5" lat="N42 45.698522" lon="E10 14.330281" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="17" type="ga" name="South_6" lat="N42 45.689963" lon="E10 14.334653" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="18" type="ga" name="South_7" lat="N42 45.681098" lon="E10 14.338192" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="19" type="ga" name="South_8" lat="N42 45.671317" lon="E10 14.342563" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="20" type="ga" name="South_9" lat="N42 45.661994" lon="E10 14.346935" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="21" type="ga" name="South_10" lat="N42 45.653282" lon="E10 14.351098" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="22" type="ga" name="South_11" lat="N42 45.644723" lon="E10 14.354429" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="23" type="ga" name="South_12" lat="N42 45.635858" lon="E10 14.357968" heading="70.91"  radius="10" airlineCodes="" />
+        <Parking index="24" type="ga" name="South_13" lat="N42 45.627482" lon="E10 14.361610" heading="70.91"  radius="10" airlineCodes="" />
+ </parkingList>
+</groundnet>
